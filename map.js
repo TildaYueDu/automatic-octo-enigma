@@ -103,7 +103,7 @@ console.log(evenIndexedNumbers);
 
 //Let's talk about the callback parameters
 
-What’s the ?
+What’s the callback?
 
 // The callback function is triadic in both implementations; the three parameters being the array element, the element’s index and the entire array
 
